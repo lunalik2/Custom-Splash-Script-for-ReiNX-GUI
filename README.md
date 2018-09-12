@@ -1,22 +1,35 @@
-# Custom-Splash-Script-for-ReiNX-GUI
 
-This program is a simple GUI for the already existing Custom Splash Script for ReiNX. Other than the fact that I added a preview, not much is to be said. This is a component of [Unofficial ReiNX SD Stash Updater](https://github.com/lunalik2/Unofficial-ReiNX-SD-Stash-Updater). All credit goes to TheExpertNoob for creating the orginal script.
+Custom-Splash-Script-for-ReiNX-GUI
 
-## How to use:
-1. Install Python 3.5 or later
+THIS REPOSITORY GOT MERGED, AND IS NOW OFFICIAL. THIS FORK IS NO LONGER SUPPORTED. ALL UPDATES WILL BE COMMITTED TO THE OFFICIAL REINX CUSTOM SPLASH REPOSITORY .
 
-2. Run setup.bat
+This program is a simple GUI for the already existing Custom Splash Script for ReiNX. Other than the fact that I added a preview, not much is to be said. This is a component of Unofficial ReiNX SD Stash Updater . All credit goes to TheExpertNoob for creating the orginal script.
 
-3. Download Custom Splash Script for ReiNX GUI, and run CustomSplash.pyw
+How to use:
+1. 
+Install Python 3.5 or later
 
-4. Click "Select Image", and select the image you would like as your ReiNX splash
+2. 
+Run setup.bat
 
-5. You will now be shown a preview of what the splash will look like when it is sized properly
+3. 
+Download Custom Splash Script for ReiNX GUI, and run CustomSplash.pyw
 
-6. You may choose another image, or if you are satisfied, click "Create Splash"
+4. 
+Click "Select Image", and select the image you would like as your ReiNX splash
 
-7. After about 2 seconds, your custom splash will be generated
+5. 
+You will now be shown a preview of what the splash will look like when it is sized properly
 
-8. Copy the "splash.bin" to your "ReiNX" folder on your sd card
+6. 
+You may choose another image, or if you are satisfied, click "Create Splash"
 
-9. Enjoy
+7. 
+After about 2 seconds, your custom splash will be generated
+
+8. 
+Copy the "splash.bin" to your "ReiNX" folder on your sd card
+
+9. 
+Enjoy
+
